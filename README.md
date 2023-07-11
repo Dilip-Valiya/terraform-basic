@@ -2,10 +2,25 @@
 
 1. install terraform in a local machine
 2. Initialize terraform code using
-   `terraform init`
+
+```
+terraform init
+```
 
 3. See plan(What will happen after applying the terraform code)
-   `terraform plan`
+
+```
+terraform plan
+```
 
 4. Apply the terraform changes
-   `terraform apply`
+
+```
+terraform apply
+```
+
+5. Destroy the resource (not terraform code)
+
+```
+terraform destroy
+```
